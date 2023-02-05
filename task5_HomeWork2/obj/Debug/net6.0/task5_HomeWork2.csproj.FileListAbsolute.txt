@@ -1,0 +1,15 @@
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\obj\Debug\net6.0\task5_HomeWork2.csproj.AssemblyReference.cache
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\obj\Debug\net6.0\task5_HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\obj\Debug\net6.0\task5_HomeWork2.AssemblyInfoInputs.cache
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\obj\Debug\net6.0\task5_HomeWork2.AssemblyInfo.cs
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\obj\Debug\net6.0\task5_HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\bin\Debug\net6.0\task5_HomeWork2.exe
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\bin\Debug\net6.0\task5_HomeWork2.deps.json
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\bin\Debug\net6.0\task5_HomeWork2.runtimeconfig.json
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\bin\Debug\net6.0\task5_HomeWork2.dll
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\bin\Debug\net6.0\task5_HomeWork2.pdb
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\obj\Debug\net6.0\task5_HomeWork2.dll
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\obj\Debug\net6.0\refint\task5_HomeWork2.dll
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\obj\Debug\net6.0\task5_HomeWork2.pdb
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\obj\Debug\net6.0\task5_HomeWork2.genruntimeconfig.cache
+C:\Users\kravc\Desktop\C#3\task5_HomeWork2\obj\Debug\net6.0\ref\task5_HomeWork2.dll
